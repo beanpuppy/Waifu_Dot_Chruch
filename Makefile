@@ -1,2 +1,2 @@
 zip:
-	@zip Waifu_Dot_Church.zip pack.mcmeta pack.png assets
+	@zip -r Waifu_Dot_Church.zip pack.mcmeta pack.png assets
